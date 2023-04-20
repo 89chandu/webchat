@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/89chandu/webchat/static/css/main.a92824f8.css",
+    "main.js": "/89chandu/webchat/static/js/main.98cf7984.js",
+    "index.html": "/89chandu/webchat/index.html",
+    "main.a92824f8.css.map": "/89chandu/webchat/static/css/main.a92824f8.css.map",
+    "main.98cf7984.js.map": "/89chandu/webchat/static/js/main.98cf7984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92824f8.css",
+    "static/js/main.98cf7984.js"
+  ]
+}
